@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pipoca-react/static/css/main.8add22f9.css",
+    "main.js": "/pipoca-react/static/js/main.3ab67420.js",
+    "index.html": "/pipoca-react/index.html",
+    "main.8add22f9.css.map": "/pipoca-react/static/css/main.8add22f9.css.map",
+    "main.3ab67420.js.map": "/pipoca-react/static/js/main.3ab67420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8add22f9.css",
+    "static/js/main.3ab67420.js"
+  ]
+}
